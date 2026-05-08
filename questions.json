@@ -1,0 +1,2404 @@
+[
+  {
+    "id": "ISO_001",
+    "topic": "ISO",
+    "question": "¿Qué se entiende por estructura de un sistema informático?",
+    "options": [
+      "La lista de programas instalados en un equipo",
+      "La forma en que están organizados e interconectados sus componentes",
+      "El conjunto de usuarios que utilizan una red",
+      "La cantidad de memoria RAM disponible"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_002",
+    "topic": "ISO",
+    "question": "¿Cuál de los siguientes elementos forma parte del hardware?",
+    "options": [
+      "Sistema operativo",
+      "Controlador",
+      "Memoria RAM",
+      "Aplicación ofimática"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ISO_003",
+    "topic": "ISO",
+    "question": "¿Qué función principal cumple la CPU en un sistema informático?",
+    "options": [
+      "Almacenar datos de forma permanente",
+      "Procesar instrucciones",
+      "Gestionar únicamente los dispositivos de red",
+      "Sustituir al sistema operativo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_004",
+    "topic": "ISO",
+    "question": "¿Qué característica define mejor a la memoria RAM?",
+    "options": [
+      "Es permanente y no volátil",
+      "Es temporal y volátil",
+      "Solo almacena firmware",
+      "No permite acceso aleatorio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_005",
+    "topic": "ISO",
+    "question": "¿Cuál es la función principal de un sistema operativo?",
+    "options": [
+      "Diseñar físicamente los componentes del ordenador",
+      "Gestionar los recursos de hardware y ofrecer servicios a las aplicaciones",
+      "Crear automáticamente todos los programas de usuario",
+      "Sustituir los dispositivos de entrada y salida"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_006",
+    "topic": "ISO",
+    "question": "¿Qué son los controladores o drivers?",
+    "options": [
+      "Programas que permiten al sistema operativo comunicarse con hardware específico",
+      "Archivos personales del usuario",
+      "Dispositivos de almacenamiento secundario",
+      "Aplicaciones destinadas solo al diseño gráfico"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_007",
+    "topic": "ISO",
+    "question": "¿Qué es el firmware?",
+    "options": [
+      "Un software incorporado al hardware con instrucciones de bajo nivel",
+      "Una memoria RAM externa",
+      "Un sistema operativo libre",
+      "Una aplicación que siempre se instala desde Internet"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_008",
+    "topic": "ISO",
+    "question": "¿Qué componente humano utiliza la informática como herramienta para realizar su trabajo?",
+    "options": [
+      "Controlador",
+      "Usuario",
+      "Firmware",
+      "Kernel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_009",
+    "topic": "ISO",
+    "question": "¿Qué tipo de memoria se conoce también como memoria secundaria?",
+    "options": [
+      "Memoria caché",
+      "Memoria RAM",
+      "Dispositivos de almacenamiento",
+      "Registro del procesador"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ISO_010",
+    "topic": "ISO",
+    "question": "¿Qué elemento conecta los componentes principales de un sistema informático?",
+    "options": [
+      "Placa base",
+      "Navegador web",
+      "Sistema de archivos",
+      "Licencia de software"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_011",
+    "topic": "ISO",
+    "question": "¿Qué significa que GNU/Linux sea un sistema multiusuario?",
+    "options": [
+      "Que solo permite un usuario administrador",
+      "Que permite gestionar y trabajar con diferentes usuarios en el mismo sistema",
+      "Que no necesita contraseñas",
+      "Que solo puede utilizarse en servidores"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_012",
+    "topic": "ISO",
+    "question": "¿Qué es el login o inicio de sesión?",
+    "options": [
+      "El apagado seguro del sistema",
+      "El proceso de acceso mediante credenciales de usuario",
+      "La instalación del sistema operativo",
+      "La creación automática de una copia de seguridad"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_013",
+    "topic": "ISO",
+    "question": "¿Cuál es el nombre habitual del superusuario en GNU/Linux?",
+    "options": [
+      "admin",
+      "root",
+      "system",
+      "kernel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_014",
+    "topic": "ISO",
+    "question": "¿Por qué se considera mala práctica iniciar sesión gráficamente como root?",
+    "options": [
+      "Porque root no puede ejecutar aplicaciones",
+      "Porque el entorno gráfico ejecutaría muchos programas con permisos excesivos",
+      "Porque Linux no permite usar interfaz gráfica",
+      "Porque root solo sirve para conectarse por red"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_015",
+    "topic": "ISO",
+    "question": "¿Qué caracteriza al modo texto o CLI?",
+    "options": [
+      "La interacción mediante ventanas, iconos y menús",
+      "La introducción de órdenes mediante texto",
+      "La imposibilidad de administrar servidores",
+      "El uso exclusivo de pantallas táctiles"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_016",
+    "topic": "ISO",
+    "question": "¿Qué caracteriza al modo gráfico o GUI?",
+    "options": [
+      "El uso de comandos únicamente por teclado",
+      "La interacción mediante elementos visuales como ventanas, iconos y menús",
+      "La ausencia total de usuarios",
+      "La gestión exclusiva de servicios de red"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_017",
+    "topic": "ISO",
+    "question": "¿Dónde tiene normalmente cada usuario de GNU/Linux sus documentos y preferencias?",
+    "options": [
+      "En el directorio personal asignado",
+      "En el directorio /boot",
+      "En la memoria ROM",
+      "En el archivo del kernel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_018",
+    "topic": "ISO",
+    "question": "¿Qué ventaja ofrece separar usuarios en GNU/Linux?",
+    "options": [
+      "Todos los usuarios comparten obligatoriamente los mismos archivos",
+      "Cada usuario puede mantener sus datos y preferencias sin interferir con otros",
+      "Se elimina la necesidad de permisos",
+      "Solo puede conectarse un usuario a la vez"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_019",
+    "topic": "ISO",
+    "question": "¿Qué representa el carácter ~ en una terminal Linux para un usuario?",
+    "options": [
+      "El directorio raíz del sistema",
+      "El directorio personal del usuario",
+      "El archivo de contraseñas",
+      "El gestor de arranque"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_020",
+    "topic": "ISO",
+    "question": "¿Qué suele indicar el prompt de una terminal?",
+    "options": [
+      "Que el sistema está preparado para recibir órdenes",
+      "Que el sistema se está apagando",
+      "Que no hay permisos disponibles",
+      "Que el usuario ha perdido la conexión"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_021",
+    "topic": "ISO",
+    "question": "¿Qué es un archivo?",
+    "options": [
+      "Un conjunto de bits asociado a un nombre que lo identifica",
+      "Un usuario con permisos administrativos",
+      "Un dispositivo físico de entrada",
+      "Una conexión de red segura"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_022",
+    "topic": "ISO",
+    "question": "¿Qué es un directorio?",
+    "options": [
+      "Un contenedor que puede almacenar archivos u otros directorios",
+      "Un tipo de procesador",
+      "Un permiso de ejecución",
+      "Un archivo obligatorio de arranque"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_023",
+    "topic": "ISO",
+    "question": "¿Qué diferencia principal hay entre una ruta absoluta y una ruta relativa?",
+    "options": [
+      "La absoluta empieza desde la raíz del sistema de archivos y la relativa depende del directorio actual",
+      "La relativa siempre empieza por C:\\ y la absoluta no",
+      "La absoluta solo se usa en Linux y la relativa solo en Windows",
+      "No existe ninguna diferencia real"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_024",
+    "topic": "ISO",
+    "question": "¿Qué sistema distingue entre mayúsculas y minúsculas en los nombres de archivo?",
+    "options": [
+      "Windows siempre",
+      "Linux",
+      "MS-DOS únicamente",
+      "Ningún sistema operativo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_025",
+    "topic": "ISO",
+    "question": "¿Qué significa que Linux sea case sensitive?",
+    "options": [
+      "Que no permite usar extensiones",
+      "Que distingue entre mayúsculas y minúsculas",
+      "Que todos los archivos deben estar cifrados",
+      "Que solo acepta nombres en inglés"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_026",
+    "topic": "ISO",
+    "question": "¿Qué ocurre en Linux con los archivos cuyo nombre empieza por un punto?",
+    "options": [
+      "Se consideran ocultos por convención",
+      "Se eliminan automáticamente",
+      "Son siempre ejecutables",
+      "No pueden abrirse desde terminal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_027",
+    "topic": "ISO",
+    "question": "¿Qué carácter no se permite usar en nombres de archivos y directorios en Linux?",
+    "options": [
+      "Guion bajo",
+      "Barra /",
+      "Punto",
+      "Letra mayúscula"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_028",
+    "topic": "ISO",
+    "question": "¿Qué son los magic numbers o firmas de archivo?",
+    "options": [
+      "Secuencias de bits que ayudan a identificar tipos de archivo",
+      "Contraseñas cifradas del sistema",
+      "Nombres alternativos de usuario",
+      "Comandos para borrar archivos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_029",
+    "topic": "ISO",
+    "question": "¿Cuál es una recomendación habitual al nombrar archivos?",
+    "options": [
+      "Usar siempre espacios y acentos",
+      "Evitar acentos y separar palabras con guiones o barras bajas",
+      "Usar caracteres como * y ? en todos los nombres",
+      "Eliminar siempre la extensión"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_030",
+    "topic": "ISO",
+    "question": "¿Qué tipo de archivo contiene información propia del usuario, como documentos o imágenes?",
+    "options": [
+      "Archivo del sistema operativo",
+      "Archivo de aplicación",
+      "Archivo de usuario",
+      "Archivo de arranque obligatorio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ISO_031",
+    "topic": "ISO",
+    "question": "¿Qué problema principal resuelve el almacenamiento secundario frente a la memoria volátil?",
+    "options": [
+      "Permite conservar información aunque el equipo se apague",
+      "Hace innecesario el sistema operativo",
+      "Sustituye completamente a la CPU",
+      "Impide crear directorios"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_032",
+    "topic": "ISO",
+    "question": "¿Qué es un dominio en administración de sistemas?",
+    "options": [
+      "Un conjunto de equipos que comparten información administrativa centralizada",
+      "Una aplicación instalada en un único ordenador",
+      "Un archivo oculto de Linux",
+      "Un tipo de memoria caché"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_033",
+    "topic": "ISO",
+    "question": "¿Qué problema presenta una red de igual a igual cuando crece?",
+    "options": [
+      "La gestión de usuarios y recursos se complica al no estar centralizada",
+      "No permite conectar equipos entre sí",
+      "Impide usar direcciones IP",
+      "Elimina todos los permisos de usuario"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_034",
+    "topic": "ISO",
+    "question": "¿Qué función realiza un servidor de dominio?",
+    "options": [
+      "Centralizar la gestión de usuarios y recursos de una red",
+      "Eliminar la necesidad de autenticación",
+      "Convertir todos los equipos en independientes",
+      "Sustituir todos los clientes por impresoras"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_035",
+    "topic": "ISO",
+    "question": "¿Qué ventaja aporta un dominio frente a un grupo de trabajo?",
+    "options": [
+      "El acceso a recursos depende menos del equipo físico y más del usuario del dominio",
+      "Cada ordenador debe tener usuarios totalmente distintos",
+      "No se pueden aplicar permisos",
+      "Todos los usuarios son administradores"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_036",
+    "topic": "ISO",
+    "question": "¿Qué es LDAP?",
+    "options": [
+      "Un protocolo ligero de acceso a directorios",
+      "Un sistema de archivos local",
+      "Un tipo de memoria principal",
+      "Un controlador de tarjeta gráfica"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_037",
+    "topic": "ISO",
+    "question": "¿Qué implementación libre de LDAP se menciona como ejemplo?",
+    "options": [
+      "Active Directory",
+      "OpenLDAP",
+      "NTFS",
+      "Samba Client Only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_038",
+    "topic": "ISO",
+    "question": "¿Qué estructura presenta la información LDAP?",
+    "options": [
+      "Una tabla plana sin jerarquía",
+      "Un árbol jerárquico llamado DIT",
+      "Una lista de procesos activos",
+      "Un sistema de archivos FAT"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_039",
+    "topic": "ISO",
+    "question": "¿Qué es un DN en LDAP?",
+    "options": [
+      "Un nombre distinguido que identifica una entrada de forma unívoca",
+      "Una contraseña temporal",
+      "Un tipo de controlador de red",
+      "Una dirección IP privada"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_040",
+    "topic": "ISO",
+    "question": "¿Qué atributo LDAP suele representar el identificador único de una entrada?",
+    "options": [
+      "uid",
+      "ram",
+      "ipconfig",
+      "boot"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_041",
+    "topic": "ISO",
+    "question": "¿Qué atributo LDAP representa habitualmente el correo electrónico del usuario?",
+    "options": [
+      "sn",
+      "mail",
+      "ou",
+      "cn"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_042",
+    "topic": "ISO",
+    "question": "¿Qué es Active Directory?",
+    "options": [
+      "La implementación de Microsoft de un servicio de directorios para entornos Windows",
+      "Un sistema de archivos exclusivo de Linux",
+      "Una herramienta para formatear discos USB",
+      "Una memoria no volátil integrada en hardware"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_043",
+    "topic": "ISO",
+    "question": "¿Qué servicio necesita Active Directory para resolver nombres de máquina por direcciones IP?",
+    "options": [
+      "DNS",
+      "FTP",
+      "DHCP únicamente",
+      "NFS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_044",
+    "topic": "ISO",
+    "question": "¿Qué ocurre cuando se instala Active Directory en un equipo con Windows Server?",
+    "options": [
+      "El equipo se convierte en controlador de dominio",
+      "El equipo pierde la configuración de red",
+      "Se elimina el servicio DNS obligatoriamente",
+      "Se deshabilitan todos los usuarios"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_045",
+    "topic": "ISO",
+    "question": "¿Qué es una unidad organizativa u OU?",
+    "options": [
+      "Un contenedor de objetos dentro de Active Directory",
+      "Una partición física del disco duro",
+      "Un tipo de memoria ROM",
+      "Un archivo de registro de Linux"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_046",
+    "topic": "ISO",
+    "question": "¿Qué es un bosque en Active Directory?",
+    "options": [
+      "Un conjunto de dominios sin espacio de nombres contiguo conectados por relaciones de confianza",
+      "Un único usuario con permisos administrativos",
+      "Una carpeta compartida local",
+      "Un tipo de licencia de software"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_047",
+    "topic": "ISO",
+    "question": "¿Qué es un árbol en Active Directory?",
+    "options": [
+      "Una colección de dominios organizados jerárquicamente con espacio de nombres común",
+      "Una lista de aplicaciones instaladas",
+      "Un permiso especial de NTFS",
+      "Un archivo de configuración de red"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_048",
+    "topic": "ISO",
+    "question": "¿Qué diferencia hay entre permisos y derechos de usuario en Windows?",
+    "options": [
+      "Los permisos afectan a objetos concretos y los derechos al sistema entero",
+      "Los derechos solo afectan a impresoras y los permisos solo a la hora del sistema",
+      "No existe diferencia entre ambos conceptos",
+      "Los permisos solo existen en Linux"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_049",
+    "topic": "ISO",
+    "question": "¿Cómo se abre la consola de edición de directivas de grupo local en Windows?",
+    "options": [
+      "Ejecutando gpedit.msc desde Windows + R",
+      "Ejecutando format.exe",
+      "Abriendo únicamente el navegador web",
+      "Reiniciando el equipo en modo seguro"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_050",
+    "topic": "ISO",
+    "question": "¿Qué objetivo tiene la auditoría de sistemas informáticos?",
+    "options": [
+      "Recoger y evaluar evidencias para controlar seguridad, integridad y uso de recursos",
+      "Eliminar todos los registros del sistema",
+      "Sustituir las copias de seguridad",
+      "Impedir la creación de usuarios"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_051",
+    "topic": "ISO",
+    "question": "¿Cuál es uno de los objetivos principales de una auditoría informática?",
+    "options": [
+      "Reducir la capacidad del sistema",
+      "Evaluar riesgos en materia de seguridad",
+      "Eliminar usuarios automáticamente",
+      "Impedir el acceso administrativo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_052",
+    "topic": "ISO",
+    "question": "¿Qué puede provocar una auditoría excesiva en un sistema?",
+    "options": [
+      "Mejora automática del hardware",
+      "Impacto negativo en el rendimiento",
+      "Eliminación de eventos del sistema",
+      "Aumento de memoria RAM física"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_053",
+    "topic": "ISO",
+    "question": "¿Qué audita la categoría 'eventos de inicio de sesión' en Windows?",
+    "options": [
+      "El uso del procesador",
+      "Los eventos relacionados con conexiones e inicios de sesión",
+      "La instalación de drivers",
+      "La creación de particiones"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_054",
+    "topic": "ISO",
+    "question": "¿Qué es el análisis forense informático?",
+    "options": [
+      "Instalación automática de antivirus",
+      "Recogida y análisis de datos digitales para reconstruir eventos",
+      "Desfragmentación de discos",
+      "Optimización de interfaces gráficas"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_055",
+    "topic": "ISO",
+    "question": "¿Qué herramienta de Windows permite revisar el registro de eventos del sistema?",
+    "options": [
+      "Administrador de dispositivos",
+      "Visor de eventos",
+      "Paint",
+      "Explorador de archivos"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_056",
+    "topic": "ISO",
+    "question": "¿Qué significa monitorización en tiempo real?",
+    "options": [
+      "Analizar datos históricos exclusivamente",
+      "Visualizar el comportamiento del sistema mientras ocurre",
+      "Guardar copias de seguridad automáticas",
+      "Apagar procesos bloqueados"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_057",
+    "topic": "ISO",
+    "question": "¿Qué diferencia a la monitorización continua?",
+    "options": [
+      "No consume recursos",
+      "Registra muestras periódicas para análisis estadístico",
+      "Solo sirve para servidores Linux",
+      "Solo muestra errores críticos"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_058",
+    "topic": "ISO",
+    "question": "¿Qué componente puede monitorizarse habitualmente?",
+    "options": [
+      "CPU",
+      "Memoria",
+      "Discos",
+      "Todos los anteriores"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ISO_059",
+    "topic": "ISO",
+    "question": "¿Qué es un contador en monitorización?",
+    "options": [
+      "Un usuario con permisos avanzados",
+      "Un parámetro usado para analizar rendimiento",
+      "Un tipo de archivo oculto",
+      "Una licencia del sistema"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_060",
+    "topic": "ISO",
+    "question": "¿Qué ejecutable abre el monitor de recursos en Windows?",
+    "options": [
+      "taskmgr.exe",
+      "resmon.exe",
+      "eventvwr.exe",
+      "cmd.exe"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_061",
+    "topic": "ISO",
+    "question": "¿Qué sección NO pertenece al monitor de recursos de Windows?",
+    "options": [
+      "CPU",
+      "Memoria",
+      "Red",
+      "BIOS"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ISO_062",
+    "topic": "ISO",
+    "question": "¿Qué significa rendimiento del sistema?",
+    "options": [
+      "Capacidad de ejecutar tareas eficientemente en un tiempo determinado",
+      "Cantidad de usuarios registrados",
+      "Número de programas instalados",
+      "Velocidad de arranque exclusivamente"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_063",
+    "topic": "ISO",
+    "question": "¿Qué puede aumentar la sobrecarga en una monitorización continua?",
+    "options": [
+      "Reducir la frecuencia de muestreo",
+      "Aumentar la frecuencia de muestreo",
+      "Apagar el sistema",
+      "Eliminar usuarios"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_064",
+    "topic": "ISO",
+    "question": "¿Qué permite el seguimiento de procesos en auditoría?",
+    "options": [
+      "Auditar procesos del sistema y recursos utilizados",
+      "Borrar eventos del sistema",
+      "Crear dominios LDAP",
+      "Eliminar permisos NTFS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_065",
+    "topic": "ISO",
+    "question": "¿Qué significa NFS?",
+    "options": [
+      "Network File System",
+      "New Firmware Security",
+      "Node File Server",
+      "Network Fast Storage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_066",
+    "topic": "ISO",
+    "question": "¿Qué permite Samba principalmente?",
+    "options": [
+      "Compartir recursos entre sistemas Linux y Windows",
+      "Crear particiones RAID",
+      "Actualizar BIOS",
+      "Gestionar impresoras USB únicamente"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_067",
+    "topic": "ISO",
+    "question": "¿Qué protocolo usa LDAP para funcionar sobre red?",
+    "options": [
+      "TCP/IP",
+      "Bluetooth",
+      "SMTP",
+      "USB"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_068",
+    "topic": "ISO",
+    "question": "¿Qué atributo LDAP representa normalmente el nombre común?",
+    "options": [
+      "uid",
+      "cn",
+      "sn",
+      "mail"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_069",
+    "topic": "ISO",
+    "question": "¿Qué atributo LDAP representa el apellido?",
+    "options": [
+      "sn",
+      "cn",
+      "mail",
+      "ou"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_070",
+    "topic": "ISO",
+    "question": "¿Qué atributo LDAP representa una unidad organizativa?",
+    "options": [
+      "ou",
+      "uid",
+      "ram",
+      "dc"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_071",
+    "topic": "ISO",
+    "question": "¿Qué define un esquema LDAP?",
+    "options": [
+      "Los objetos y atributos que el servidor puede manejar",
+      "La velocidad de red",
+      "La memoria disponible",
+      "Los permisos del BIOS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_072",
+    "topic": "ISO",
+    "question": "¿Qué servicio proporciona autenticación centralizada en un dominio Windows?",
+    "options": [
+      "Controlador de dominio",
+      "Explorador de Windows",
+      "Bloc de notas",
+      "Firewall local"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_073",
+    "topic": "ISO",
+    "question": "¿Qué significa ACL?",
+    "options": [
+      "Access Control List",
+      "Automatic Command Loader",
+      "Active Client Link",
+      "Admin Configuration Layer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_074",
+    "topic": "ISO",
+    "question": "¿Qué describe mejor una ACL?",
+    "options": [
+      "Lista que define permisos de acceso sobre recursos",
+      "Lista de procesos activos",
+      "Listado de discos duros",
+      "Conjunto de comandos Linux"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_075",
+    "topic": "ISO",
+    "question": "¿Qué herramienta Linux permite abrir una terminal remota de forma segura?",
+    "options": [
+      "FTP",
+      "SSH",
+      "HTTP",
+      "DNS"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_076",
+    "topic": "ISO",
+    "question": "¿Qué significa que un sistema Windows sea case insensitive?",
+    "options": [
+      "No distingue mayúsculas y minúsculas",
+      "No permite extensiones",
+      "No usa permisos",
+      "No admite nombres largos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_077",
+    "topic": "ISO",
+    "question": "¿Cuál es la longitud máxima habitual de nombres en Linux según los apuntes?",
+    "options": [
+      "255 caracteres",
+      "64 caracteres",
+      "1024 caracteres",
+      "128 caracteres"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_078",
+    "topic": "ISO",
+    "question": "¿Qué comando se usa habitualmente para cambiar permisos en Linux?",
+    "options": [
+      "chmod",
+      "mkdir",
+      "touch",
+      "ping"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_079",
+    "topic": "ISO",
+    "question": "¿Qué es RAID?",
+    "options": [
+      "Sistema de combinación de discos para mejorar rendimiento y/o redundancia",
+      "Sistema de autenticación LDAP",
+      "Tipo de interfaz gráfica",
+      "Comando de Linux"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_080",
+    "topic": "ISO",
+    "question": "¿Qué ventaja principal ofrece RAID según el nivel usado?",
+    "options": [
+      "Rendimiento y tolerancia a fallos",
+      "Más usuarios simultáneos obligatoriamente",
+      "Reducción de RAM",
+      "Eliminación de auditorías"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_081",
+    "topic": "ISO",
+    "question": "¿Qué es una incidencia informática?",
+    "options": [
+      "Un problema o fallo que afecta al funcionamiento esperado del sistema",
+      "Una actualización automática",
+      "Un tipo de licencia",
+      "Una conexión remota"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_082",
+    "topic": "ISO",
+    "question": "¿Qué valor tiene documentar una incidencia resuelta?",
+    "options": [
+      "Permite resolver más rápido problemas similares futuros",
+      "Reduce memoria RAM",
+      "Evita reinicios",
+      "Desactiva errores automáticamente"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_083",
+    "topic": "ISO",
+    "question": "¿Qué documentación es generalmente la más fiable?",
+    "options": [
+      "La oficial del fabricante",
+      "Comentarios aleatorios en foros",
+      "Mensajes sin verificar",
+      "Redes sociales"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_084",
+    "topic": "ISO",
+    "question": "¿Por qué es útil el inglés técnico en informática?",
+    "options": [
+      "Porque gran parte de la documentación técnica está en inglés",
+      "Porque Linux solo funciona en inglés",
+      "Porque Windows exige inglés",
+      "Porque sustituye certificaciones"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_085",
+    "topic": "ISO",
+    "question": "¿Qué significa troubleshooting?",
+    "options": [
+      "Actualización",
+      "Resolución de problemas",
+      "Instalación",
+      "Monitorización"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_086",
+    "topic": "ISO",
+    "question": "¿Qué significa deploy?",
+    "options": [
+      "Desplegar",
+      "Borrar",
+      "Formatear",
+      "Desinstalar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_087",
+    "topic": "ISO",
+    "question": "¿Qué significa performance?",
+    "options": [
+      "Permiso",
+      "Rendimiento",
+      "Pantalla",
+      "Directorio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_088",
+    "topic": "ISO",
+    "question": "¿Qué utilidad tiene la documentación no oficial?",
+    "options": [
+      "Complementar la oficial cuando aparecen problemas nuevos",
+      "Sustituir siempre la oficial",
+      "Eliminar necesidad de pruebas",
+      "Evitar soporte técnico"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_089",
+    "topic": "ISO",
+    "question": "¿Qué es Stack Overflow?",
+    "options": [
+      "Comunidad técnica de preguntas y respuestas",
+      "Sistema operativo libre",
+      "Antivirus",
+      "Editor de texto"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_090",
+    "topic": "ISO",
+    "question": "¿Qué es Super User?",
+    "options": [
+      "Foro técnico relacionado con informática general",
+      "Usuario root de Linux",
+      "Licencia empresarial",
+      "Controlador de dominio"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_091",
+    "topic": "ISO",
+    "question": "¿Qué es un disco de rescate?",
+    "options": [
+      "Herramienta para recuperación y diagnóstico del sistema",
+      "Disco para almacenar música",
+      "Memoria RAM externa",
+      "Un dominio LDAP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_092",
+    "topic": "ISO",
+    "question": "¿Qué es una instalación desatendida?",
+    "options": [
+      "Instalación automatizada sin intervención constante del usuario",
+      "Instalación sin sistema operativo",
+      "Instalación sin drivers",
+      "Instalación manual avanzada"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_093",
+    "topic": "ISO",
+    "question": "¿Qué es un proceso en un sistema operativo?",
+    "options": [
+      "Programa en ejecución",
+      "Archivo comprimido",
+      "Usuario autenticado",
+      "Dispositivo de almacenamiento"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_094",
+    "topic": "ISO",
+    "question": "¿Qué herramienta suele gestionar procesos en Windows?",
+    "options": [
+      "Administrador de tareas",
+      "Bloc de notas",
+      "Paint",
+      "Calculadora"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_095",
+    "topic": "ISO",
+    "question": "¿Qué significa GUI?",
+    "options": [
+      "Graphical User Interface",
+      "General User Internet",
+      "Global Utility Interface",
+      "Graphic Unix Integration"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_096",
+    "topic": "ISO",
+    "question": "¿Qué significa CLI?",
+    "options": [
+      "Command Line Interface",
+      "Central Linux Interface",
+      "Client Login Internet",
+      "Control Layer Integration"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_097",
+    "topic": "ISO",
+    "question": "¿Qué es un servicio en un sistema operativo?",
+    "options": [
+      "Proceso que suele ejecutarse en segundo plano",
+      "Un archivo multimedia",
+      "Un usuario administrador",
+      "Una licencia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_098",
+    "topic": "ISO",
+    "question": "¿Qué utilidad tiene DNS en un dominio?",
+    "options": [
+      "Resolver nombres a direcciones IP",
+      "Crear usuarios Linux",
+      "Monitorizar CPU",
+      "Gestionar permisos ACL"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_099",
+    "topic": "ISO",
+    "question": "¿Qué es un controlador de dominio?",
+    "options": [
+      "Servidor responsable de autenticación y gestión del dominio",
+      "Tarjeta de red",
+      "Driver gráfico",
+      "Aplicación cliente"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_100",
+    "topic": "ISO",
+    "question": "¿Qué ventaja ofrece centralizar usuarios en un dominio?",
+    "options": [
+      "Administración más eficiente de accesos y recursos",
+      "Eliminar contraseñas",
+      "Evitar uso de red",
+      "Eliminar permisos"
+    ],
+    "answerIndex": 0
+  },
+   {
+    "id": "ISO_101",
+    "topic": "ISO",
+    "question": "¿Qué comando de Linux muestra el directorio de trabajo actual?",
+    "options": [
+      "pwd",
+      "ls",
+      "cd",
+      "mkdir"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_102",
+    "topic": "ISO",
+    "question": "¿Qué comando permite listar el contenido de un directorio en Linux?",
+    "options": [
+      "pwd",
+      "ls",
+      "mv",
+      "rm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_103",
+    "topic": "ISO",
+    "question": "¿Qué comando se utiliza para cambiar de directorio en Linux?",
+    "options": [
+      "cd",
+      "pwd",
+      "chmod",
+      "grep"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_104",
+    "topic": "ISO",
+    "question": "¿Qué comando crea un nuevo directorio en Linux?",
+    "options": [
+      "touch",
+      "mkdir",
+      "rmdir",
+      "cp"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_105",
+    "topic": "ISO",
+    "question": "¿Qué comando crea un archivo vacío en Linux?",
+    "options": [
+      "touch",
+      "cat",
+      "nano",
+      "mv"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_106",
+    "topic": "ISO",
+    "question": "¿Qué comando elimina un archivo en Linux?",
+    "options": [
+      "del",
+      "rm",
+      "erase",
+      "kill"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_107",
+    "topic": "ISO",
+    "question": "¿Qué comando elimina un directorio vacío?",
+    "options": [
+      "rmdir",
+      "rmfile",
+      "delete",
+      "erase"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_108",
+    "topic": "ISO",
+    "question": "¿Qué comando copia archivos en Linux?",
+    "options": [
+      "cp",
+      "mv",
+      "cat",
+      "ln"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_109",
+    "topic": "ISO",
+    "question": "¿Qué comando mueve o renombra archivos?",
+    "options": [
+      "cp",
+      "mv",
+      "chmod",
+      "pwd"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_110",
+    "topic": "ISO",
+    "question": "¿Qué comando muestra el contenido de un archivo de texto?",
+    "options": [
+      "show",
+      "cat",
+      "open",
+      "print"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_111",
+    "topic": "ISO",
+    "question": "¿Qué representan los permisos rwx en Linux?",
+    "options": [
+      "Read, write, execute",
+      "Run, work, exit",
+      "Read, web, execute",
+      "Root, write, xorg"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_112",
+    "topic": "ISO",
+    "question": "¿Sobre quién se aplican los permisos Linux?",
+    "options": [
+      "Usuario, grupo y otros",
+      "Solo administrador",
+      "Solo usuarios remotos",
+      "Solo procesos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_113",
+    "topic": "ISO",
+    "question": "¿Qué permiso permite ejecutar un archivo?",
+    "options": [
+      "r",
+      "w",
+      "x",
+      "e"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ISO_114",
+    "topic": "ISO",
+    "question": "¿Qué comando cambia el propietario de un archivo?",
+    "options": [
+      "chmod",
+      "chown",
+      "passwd",
+      "usermod"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_115",
+    "topic": "ISO",
+    "question": "¿Qué comando cambia la contraseña de un usuario en Linux?",
+    "options": [
+      "passwd",
+      "password",
+      "usermod",
+      "chpass"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_116",
+    "topic": "ISO",
+    "question": "¿Qué archivo almacena información de usuarios en Linux?",
+    "options": [
+      "/etc/passwd",
+      "/etc/users",
+      "/etc/groups",
+      "/boot/users"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_117",
+    "topic": "ISO",
+    "question": "¿Qué archivo almacena información de grupos en Linux?",
+    "options": [
+      "/etc/passwd",
+      "/etc/group",
+      "/etc/shadow",
+      "/root/groups"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ISO_118",
+    "topic": "ISO",
+    "question": "¿Qué archivo almacena contraseñas cifradas?",
+    "options": [
+      "/etc/shadow",
+      "/etc/passwd",
+      "/etc/secure",
+      "/root/passwords"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_119",
+    "topic": "ISO",
+    "question": "¿Qué comando crea un nuevo usuario en Linux?",
+    "options": [
+      "adduser",
+      "mkuser",
+      "newuser",
+      "usercreate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_120",
+    "topic": "ISO",
+    "question": "¿Qué comando elimina un usuario?",
+    "options": [
+      "userdel",
+      "rmuser",
+      "deluserx",
+      "eraseuser"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_121",
+    "topic": "ISO",
+    "question": "¿Qué comando modifica un usuario existente?",
+    "options": [
+      "usermod",
+      "useredit",
+      "chmod",
+      "passwd"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_122",
+    "topic": "ISO",
+    "question": "¿Qué comando crea un grupo nuevo?",
+    "options": [
+      "groupadd",
+      "mkgroup",
+      "newgroup",
+      "addgrp"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_123",
+    "topic": "ISO",
+    "question": "¿Qué comando añade un usuario a un grupo?",
+    "options": [
+      "usermod",
+      "passwd",
+      "chmod",
+      "groupadd"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_124",
+    "topic": "ISO",
+    "question": "¿Qué protocolo se utiliza habitualmente para acceso remoto seguro?",
+    "options": [
+      "SSH",
+      "Telnet",
+      "FTP",
+      "HTTP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_125",
+    "topic": "ISO",
+    "question": "¿Qué comando muestra interfaces de red en Linux tradicionalmente?",
+    "options": [
+      "ifconfig",
+      "ping",
+      "route",
+      "dns"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_126",
+    "topic": "ISO",
+    "question": "¿Qué utilidad se usa para comprobar conectividad de red?",
+    "options": [
+      "ping",
+      "grep",
+      "chmod",
+      "mount"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_127",
+    "topic": "ISO",
+    "question": "¿Qué protocolo traduce nombres de dominio a IP?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SMTP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_128",
+    "topic": "ISO",
+    "question": "¿Qué servicio asigna IP automáticamente?",
+    "options": [
+      "DHCP",
+      "DNS",
+      "SSH",
+      "LDAP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_129",
+    "topic": "ISO",
+    "question": "¿Qué es un enlace simbólico en Linux?",
+    "options": [
+      "Un acceso directo a otro archivo o directorio",
+      "Una copia física completa",
+      "Un permiso especial",
+      "Un usuario temporal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_130",
+    "topic": "ISO",
+    "question": "¿Qué comando crea un enlace simbólico?",
+    "options": [
+      "ln -s",
+      "link -a",
+      "mklink",
+      "cp -s"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_131",
+    "topic": "ISO",
+    "question": "¿Qué comando busca texto dentro de archivos?",
+    "options": [
+      "grep",
+      "find",
+      "ls",
+      "pwd"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_132",
+    "topic": "ISO",
+    "question": "¿Qué comando busca archivos por nombre?",
+    "options": [
+      "find",
+      "grep",
+      "search",
+      "lookup"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_133",
+    "topic": "ISO",
+    "question": "¿Qué herramienta muestra procesos activos en Linux?",
+    "options": [
+      "top",
+      "ls",
+      "pswd",
+      "chmod"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_134",
+    "topic": "ISO",
+    "question": "¿Qué comando termina un proceso?",
+    "options": [
+      "kill",
+      "stop",
+      "rm",
+      "halt"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_135",
+    "topic": "ISO",
+    "question": "¿Qué es un proceso zombi?",
+    "options": [
+      "Proceso terminado que aún mantiene entrada en tabla de procesos",
+      "Proceso con uso alto de CPU",
+      "Usuario bloqueado",
+      "Archivo corrupto"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_136",
+    "topic": "ISO",
+    "question": "¿Qué representa la memoria swap?",
+    "options": [
+      "Memoria de intercambio usada cuando falta RAM",
+      "Memoria caché de CPU",
+      "Memoria ROM",
+      "Memoria de vídeo"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_137",
+    "topic": "ISO",
+    "question": "¿Qué comando muestra espacio usado en disco?",
+    "options": [
+      "df",
+      "du",
+      "ls",
+      "free"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_138",
+    "topic": "ISO",
+    "question": "¿Qué comando muestra uso de espacio por directorio?",
+    "options": [
+      "du",
+      "df",
+      "mount",
+      "pwd"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_139",
+    "topic": "ISO",
+    "question": "¿Qué comando muestra memoria libre?",
+    "options": [
+      "free",
+      "mem",
+      "topmem",
+      "swap"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_140",
+    "topic": "ISO",
+    "question": "¿Qué significa kernel?",
+    "options": [
+      "Núcleo del sistema operativo",
+      "Interfaz gráfica",
+      "Administrador de usuarios",
+      "Firewall"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_141",
+    "topic": "ISO",
+    "question": "¿Qué es GRUB?",
+    "options": [
+      "Gestor de arranque",
+      "Sistema de archivos",
+      "Controlador de red",
+      "Monitor de recursos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_142",
+    "topic": "ISO",
+    "question": "¿Qué función tiene un gestor de arranque?",
+    "options": [
+      "Iniciar el sistema operativo",
+      "Gestionar impresoras",
+      "Crear usuarios",
+      "Formatear discos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_143",
+    "topic": "ISO",
+    "question": "¿Qué es una cuota de disco?",
+    "options": [
+      "Límite de espacio asignado a usuarios o grupos",
+      "Tipo de RAID",
+      "Tipo de auditoría",
+      "Directiva de grupo"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_144",
+    "topic": "ISO",
+    "question": "¿Qué sistema de archivos es habitual en Windows?",
+    "options": [
+      "NTFS",
+      "ext4",
+      "swap",
+      "xfs"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_145",
+    "topic": "ISO",
+    "question": "¿Qué sistema de archivos es habitual en Linux?",
+    "options": [
+      "ext4",
+      "NTFS",
+      "FAT16",
+      "ReFS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_146",
+    "topic": "ISO",
+    "question": "¿Qué significa NTFS?",
+    "options": [
+      "New Technology File System",
+      "Network Transfer File Service",
+      "Node Tracking File System",
+      "New Terminal Format Storage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_147",
+    "topic": "ISO",
+    "question": "¿Qué utilidad tiene el monitor de rendimiento en Windows?",
+    "options": [
+      "Analizar rendimiento del sistema con contadores",
+      "Editar imágenes",
+      "Instalar drivers",
+      "Gestionar DNS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_148",
+    "topic": "ISO",
+    "question": "¿Qué puede indicar un uso continuo del 100% de CPU?",
+    "options": [
+      "Posible saturación del sistema",
+      "Funcionamiento perfecto",
+      "Fallo del teclado",
+      "Ausencia de procesos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_149",
+    "topic": "ISO",
+    "question": "¿Qué implica autenticarse en un dominio?",
+    "options": [
+      "Validar credenciales contra el servidor de dominio",
+      "Crear usuario local",
+      "Formatear equipo",
+      "Instalar software"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_150",
+    "topic": "ISO",
+    "question": "¿Qué ventaja ofrece una administración centralizada?",
+    "options": [
+      "Gestión más eficiente de usuarios y recursos",
+      "Eliminar redes",
+      "Quitar autenticación",
+      "Reducir almacenamiento"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_151",
+    "topic": "ISO",
+    "question": "¿Qué herramienta de Windows permite gestionar procesos, rendimiento y aplicaciones activas?",
+    "options": [
+      "Administrador de tareas",
+      "Visor de eventos",
+      "Editor del registro",
+      "Panel de control"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_152",
+    "topic": "ISO",
+    "question": "¿Qué utilidad principal tiene el Visor de eventos de Windows?",
+    "options": [
+      "Monitorizar logs y eventos del sistema",
+      "Editar usuarios LDAP",
+      "Crear particiones",
+      "Gestionar impresoras de red"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_153",
+    "topic": "ISO",
+    "question": "¿Qué comando abre el editor de directivas de grupo local?",
+    "options": [
+      "gpedit.msc",
+      "eventvwr.msc",
+      "services.msc",
+      "regedit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_154",
+    "topic": "ISO",
+    "question": "¿Qué comando abre el visor de eventos de Windows?",
+    "options": [
+      "eventvwr.msc",
+      "gpedit.msc",
+      "resmon.exe",
+      "cmd.exe"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_155",
+    "topic": "ISO",
+    "question": "¿Qué herramienta permite gestionar servicios en Windows?",
+    "options": [
+      "services.msc",
+      "gpedit.msc",
+      "ping",
+      "dxdiag"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_156",
+    "topic": "ISO",
+    "question": "¿Qué es una directiva de grupo?",
+    "options": [
+      "Configuración centralizada para usuarios y equipos",
+      "Un sistema de archivos",
+      "Una contraseña de administrador",
+      "Un tipo de licencia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_157",
+    "topic": "ISO",
+    "question": "¿Qué se audita en la categoría 'administración de cuentas'?",
+    "options": [
+      "Creación, modificación y eliminación de cuentas",
+      "Uso de CPU",
+      "Transferencias FTP",
+      "Particiones de disco"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_158",
+    "topic": "ISO",
+    "question": "¿Qué se audita en 'acceso a objetos'?",
+    "options": [
+      "Uso de archivos, carpetas, impresoras y recursos",
+      "Velocidad de Internet",
+      "Temperatura del procesador",
+      "Usuarios ocultos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_159",
+    "topic": "ISO",
+    "question": "¿Qué finalidad tienen las alarmas en auditoría?",
+    "options": [
+      "Ejecutar acciones ante eventos determinados",
+      "Apagar automáticamente el sistema",
+      "Eliminar usuarios inactivos",
+      "Formatear discos defectuosos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_160",
+    "topic": "ISO",
+    "question": "¿Qué es una incidencia técnica?",
+    "options": [
+      "Problema que afecta al funcionamiento esperado del sistema",
+      "Actualización completada",
+      "Usuario administrador",
+      "Configuración correcta"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_161",
+    "topic": "ISO",
+    "question": "¿Qué es documentación oficial?",
+    "options": [
+      "Información proporcionada por el fabricante",
+      "Comentarios de foros",
+      "Mensajes de usuarios anónimos",
+      "Publicaciones no verificadas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_162",
+    "topic": "ISO",
+    "question": "¿Qué ventaja tiene documentar incidencias resueltas?",
+    "options": [
+      "Facilita futuras resoluciones similares",
+      "Reduce espacio en disco",
+      "Desactiva errores automáticamente",
+      "Aumenta velocidad de CPU"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_163",
+    "topic": "ISO",
+    "question": "¿Qué es How-To Geek según el material?",
+    "options": [
+      "Sitio con guías y consejos tecnológicos",
+      "Sistema operativo",
+      "Firewall empresarial",
+      "Antivirus"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_164",
+    "topic": "ISO",
+    "question": "¿Qué comunidad es conocida por preguntas técnicas de programación y sistemas?",
+    "options": [
+      "Stack Overflow",
+      "Netflix",
+      "Git Bash",
+      "LibreOffice"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_165",
+    "topic": "ISO",
+    "question": "¿Qué significa 'upgrade'?",
+    "options": [
+      "Actualizar",
+      "Eliminar",
+      "Respaldar",
+      "Monitorizar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_166",
+    "topic": "ISO",
+    "question": "¿Qué significa 'download'?",
+    "options": [
+      "Descargar",
+      "Subir",
+      "Borrar",
+      "Reiniciar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_167",
+    "topic": "ISO",
+    "question": "¿Qué significa 'restart'?",
+    "options": [
+      "Reiniciar",
+      "Actualizar",
+      "Apagar",
+      "Instalar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_168",
+    "topic": "ISO",
+    "question": "¿Qué significa 'shut down'?",
+    "options": [
+      "Apagar",
+      "Instalar",
+      "Reiniciar",
+      "Compartir"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_169",
+    "topic": "ISO",
+    "question": "¿Qué es una instalación desatendida?",
+    "options": [
+      "Instalación automatizada con mínima intervención",
+      "Instalación sin sistema operativo",
+      "Instalación sin drivers",
+      "Instalación gráfica obligatoria"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_170",
+    "topic": "ISO",
+    "question": "¿Qué utilidad tiene un disco de rescate?",
+    "options": [
+      "Diagnóstico y recuperación del sistema",
+      "Editar documentos",
+      "Gestionar correo",
+      "Diseñar redes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_171",
+    "topic": "ISO",
+    "question": "¿Qué es dxdiag en Windows?",
+    "options": [
+      "Herramienta de diagnóstico del sistema",
+      "Firewall",
+      "Editor LDAP",
+      "Cliente SSH"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_172",
+    "topic": "ISO",
+    "question": "¿Qué es una copia de seguridad?",
+    "options": [
+      "Duplicado de datos para recuperación ante pérdida",
+      "Eliminación de archivos",
+      "Configuración de red",
+      "Tipo de usuario"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_173",
+    "topic": "ISO",
+    "question": "¿Qué significa redundancia en almacenamiento?",
+    "options": [
+      "Duplicación de información para tolerancia a fallos",
+      "Reducción de usuarios",
+      "Disminución de RAM",
+      "Borrado automático"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_174",
+    "topic": "ISO",
+    "question": "¿Qué RAID prioriza rendimiento sin redundancia?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 6"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_175",
+    "topic": "ISO",
+    "question": "¿Qué RAID duplica discos para tolerancia a fallos?",
+    "options": [
+      "RAID 1",
+      "RAID 0",
+      "RAID 3",
+      "RAID 10"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_176",
+    "topic": "ISO",
+    "question": "¿Qué RAID combina rendimiento y redundancia mediante striping + mirroring?",
+    "options": [
+      "RAID 10",
+      "RAID 0",
+      "RAID 1",
+      "RAID 2"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_177",
+    "topic": "ISO",
+    "question": "¿Qué es un recurso compartido?",
+    "options": [
+      "Elemento accesible por varios usuarios a través de red",
+      "Archivo oculto",
+      "Usuario root",
+      "Directiva de auditoría"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_178",
+    "topic": "ISO",
+    "question": "¿Qué es un objeto en Active Directory?",
+    "options": [
+      "Elemento del directorio como usuario, grupo o impresora",
+      "Disco duro físico",
+      "Proceso del kernel",
+      "Controlador de vídeo"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_179",
+    "topic": "ISO",
+    "question": "¿Qué protocolo usa Active Directory para consultas de directorio?",
+    "options": [
+      "LDAP",
+      "FTP",
+      "POP3",
+      "SSH"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_180",
+    "topic": "ISO",
+    "question": "¿Qué significa OU en Active Directory?",
+    "options": [
+      "Organizational Unit",
+      "Operating User",
+      "Object Utility",
+      "Online Unit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_181",
+    "topic": "ISO",
+    "question": "¿Qué es una política de seguridad?",
+    "options": [
+      "Conjunto de normas para proteger sistemas y recursos",
+      "Tipo de RAID",
+      "Software de ofimática",
+      "Archivo temporal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_182",
+    "topic": "ISO",
+    "question": "¿Qué es control de acceso?",
+    "options": [
+      "Mecanismo que limita quién puede usar recursos",
+      "Sistema de monitorización",
+      "Proceso de backup",
+      "Configuración gráfica"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_183",
+    "topic": "ISO",
+    "question": "¿Qué es un privilegio de usuario?",
+    "options": [
+      "Permiso especial para ejecutar acciones del sistema",
+      "Archivo ejecutable",
+      "Proceso de red",
+      "Cuenta LDAP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_184",
+    "topic": "ISO",
+    "question": "¿Qué utilidad tiene la autenticación?",
+    "options": [
+      "Verificar identidad del usuario",
+      "Aumentar almacenamiento",
+      "Reducir uso de CPU",
+      "Crear discos virtuales"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_185",
+    "topic": "ISO",
+    "question": "¿Qué es autorización?",
+    "options": [
+      "Definir a qué recursos puede acceder un usuario autenticado",
+      "Crear usuarios",
+      "Instalar sistema",
+      "Borrar permisos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_186",
+    "topic": "ISO",
+    "question": "¿Qué es disponibilidad en seguridad?",
+    "options": [
+      "Que los sistemas estén accesibles cuando se necesiten",
+      "Eliminar usuarios",
+      "Cifrar discos",
+      "Reducir servicios"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_187",
+    "topic": "ISO",
+    "question": "¿Qué es integridad de datos?",
+    "options": [
+      "Garantía de que la información no ha sido alterada indebidamente",
+      "Mayor velocidad de disco",
+      "Control de usuarios ocultos",
+      "Auditoría automática"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_188",
+    "topic": "ISO",
+    "question": "¿Qué es confidencialidad?",
+    "options": [
+      "Acceso restringido solo a usuarios autorizados",
+      "Compartir datos públicamente",
+      "Eliminar logs",
+      "Monitorizar CPU"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_189",
+    "topic": "ISO",
+    "question": "¿Qué es una amenaza informática?",
+    "options": [
+      "Evento potencial que puede causar daño",
+      "Actualización automática",
+      "Copia de seguridad",
+      "Configuración correcta"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_190",
+    "topic": "ISO",
+    "question": "¿Qué es una vulnerabilidad?",
+    "options": [
+      "Debilidad explotable de un sistema",
+      "Permiso administrativo",
+      "Usuario oculto",
+      "Proceso del kernel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_191",
+    "topic": "ISO",
+    "question": "¿Qué es malware?",
+    "options": [
+      "Software malicioso",
+      "Sistema operativo libre",
+      "Aplicación de monitorización",
+      "Protocolo de red"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_192",
+    "topic": "ISO",
+    "question": "¿Qué función tiene un antivirus?",
+    "options": [
+      "Detectar y eliminar software malicioso",
+      "Crear usuarios",
+      "Gestionar LDAP",
+      "Editar directivas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_193",
+    "topic": "ISO",
+    "question": "¿Qué hace un firewall?",
+    "options": [
+      "Filtrar tráfico de red según reglas",
+      "Gestionar archivos locales",
+      "Crear RAID",
+      "Monitorizar CPU"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_194",
+    "topic": "ISO",
+    "question": "¿Qué es una actualización de seguridad?",
+    "options": [
+      "Corrección para reducir vulnerabilidades",
+      "Cambio de monitor",
+      "Creación de usuario",
+      "Configuración de impresora"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_195",
+    "topic": "ISO",
+    "question": "¿Qué es troubleshooting?",
+    "options": [
+      "Proceso de resolución de problemas",
+      "Instalación automatizada",
+      "Copia de seguridad",
+      "Monitorización continua"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_196",
+    "topic": "ISO",
+    "question": "¿Qué es soporte técnico?",
+    "options": [
+      "Asistencia para resolver incidencias informáticas",
+      "Servidor LDAP",
+      "Sistema operativo",
+      "Partición de disco"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_197",
+    "topic": "ISO",
+    "question": "¿Qué es un log?",
+    "options": [
+      "Registro de eventos del sistema",
+      "Usuario administrador",
+      "Proceso oculto",
+      "Tipo de partición"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_198",
+    "topic": "ISO",
+    "question": "¿Qué es una evidencia digital?",
+    "options": [
+      "Información utilizable en análisis forense",
+      "Archivo temporal",
+      "Cuenta LDAP",
+      "Driver del sistema"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_199",
+    "topic": "ISO",
+    "question": "¿Qué es continuidad del servicio?",
+    "options": [
+      "Capacidad de mantener funcionamiento ante incidencias",
+      "Instalar actualizaciones",
+      "Crear usuarios",
+      "Borrar procesos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ISO_200",
+    "topic": "ISO",
+    "question": "¿Qué objetivo general tiene la administración de sistemas?",
+    "options": [
+      "Garantizar funcionamiento eficiente, seguro y estable de los sistemas",
+      "Eliminar todos los usuarios",
+      "Reducir uso de red a cero",
+      "Evitar documentación técnica"
+    ],
+    "answerIndex": 0
+  }
+
+]
+
